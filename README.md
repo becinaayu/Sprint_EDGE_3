@@ -42,7 +42,7 @@
 
 <b> - Tabela com o hardware do circuito </b>
 
-<img height="800px" src="circuito.png" alt="Circuito">
+<img height="500px" src="circuito.png" alt="Circuito">
 
 | Quantidade | Descrição                     |
 | ---------- | ----------------------------- |
