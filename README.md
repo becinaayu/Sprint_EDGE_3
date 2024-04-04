@@ -62,8 +62,7 @@ https://github.com/becinaayu/Sprint_EDGE_3/assets/143190958/07183f61-53fe-4eca-b
 <h2> Configuração </h2>
 
 Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte o vídeo  abaixo:
-
-
+<a href="explicativo.mp4"> Vídeo circuito </a>
 
 <h2> Código do Circuito </h2>
 
