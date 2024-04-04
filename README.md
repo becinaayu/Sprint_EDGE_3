@@ -60,7 +60,7 @@
 <h2> Configuração </h2>
 
 Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte o vídeo  abaixo:
-<a href="explicativo.mp4"> Vídeo circuito </a>
+<a href="[explicativo.mp4](https://github.com/becinaayu/Sprint_EDGE_3/assets/143190958/c9c43b54-7c77-47a8-a8e7-32e891632516)"> Vídeo circuito </a>
 
 <h2> Código do Circuito </h2>
 
@@ -83,6 +83,7 @@ No Wokwi, ou outra plataforma com apoio ao Arduino Uno de sua escolha, copie e c
 2. Conecte o Arduino. <br>
 3. Carregue o código no Arduino usando a IDE. <br>
 4. Observe as luzes dos LEDs e o som do buzzer. <br>
+
 
 <br>
 
