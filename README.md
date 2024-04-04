@@ -55,10 +55,6 @@
 
 </div>
 
-
-https://github.com/becinaayu/Sprint_EDGE_3/assets/143190958/07183f61-53fe-4eca-bf6f-59416cf4ee5c
-
-
 <h2> Configuração </h2>
 
 Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte o vídeo  abaixo:
