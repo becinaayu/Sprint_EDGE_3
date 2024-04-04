@@ -42,8 +42,6 @@
 
 <b> - Tabela com o hardware do circuito </b>
 
-<img height="500px" src="circuito.png" alt="Circuito">
-
 | Quantidade | Descrição                     |
 | ---------- | ----------------------------- |
 | 1          | Arduino Uno R3                |
@@ -52,6 +50,8 @@
 | 1          | Verde LED                     |
 | 5          | 220 Ω Resistor                |
 | 3          | Pushbutton                    |
+
+<img height="450px" src="circuito.png" alt="Circuito">
 
 </div>
 
