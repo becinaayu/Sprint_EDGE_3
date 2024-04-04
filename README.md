@@ -42,6 +42,8 @@
 
 <b> - Tabela com o hardware do circuito </b>
 
+<img height="390em" src="circuito.png" alt="Circuito">
+
 | Quantidade | Descrição                     |
 | ---------- | ----------------------------- |
 | 1          | Arduino Uno R3                |
@@ -53,7 +55,7 @@
 
 </div>
 
-<img height="390em" src="circuito.png" alt="Circuito" align="center">
+
 
 <h2> Configuração </h2>
 
