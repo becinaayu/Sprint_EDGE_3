@@ -60,7 +60,11 @@
 <h2> Configuração </h2>
 
 Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte o vídeo  abaixo:
-<a href="[explicativo.mp4](https://github.com/becinaayu/Sprint_EDGE_3/assets/143190958/c9c43b54-7c77-47a8-a8e7-32e891632516)"> Vídeo circuito </a>
+<a href="explicativo.mp4"> Vídeo circuito </a>
+
+https://github.com/becinaayu/Sprint_EDGE_3/assets/143190958/fa1aeb67-5e49-4ea7-a698-9dd24d0f7314
+
+
 
 <h2> Código do Circuito </h2>
 
