@@ -67,9 +67,9 @@ No Wokwi, ou outra plataforma com apoio ao Arduino Uno de sua escolha, copie e c
 
 <p> Para o desenvolvimento do projeto, foi usado a IDE: </p>
 
-<a href="https://wokwi.com/"> Wokwi </a>
-<a href="https://tago.io/"> Tago </a>
-<a href="https://nodered.org/docs/getting-started/local"> Node-Red </a>
+1. <a href="https://wokwi.com/"> Wokwi </a>
+2. <a href="https://tago.io/"> Tago </a>
+3. <a href="https://nodered.org/docs/getting-started/local"> Node-Red </a>
 
 <h2> Funcionamento  </h2>
 1. Conecte os sensores e LEDs conforme o esquema. <br>
