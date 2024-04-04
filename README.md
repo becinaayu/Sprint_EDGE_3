@@ -53,6 +53,8 @@
 
 </div>
 
+<img height="390em" src="circuito.png" alt="Circuito" align="center">
+
 <h2> Configuração </h2>
 
 Conecte os componentes elétricos de forma adequada, caso tenha dúvidas, consulte o vídeo  abaixo:
